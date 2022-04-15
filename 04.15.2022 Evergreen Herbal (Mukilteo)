@@ -1,0 +1,862 @@
+{
+  "created_at": "2022-04-13T19:57:52.236Z",
+  "document_name": "WCIA Transfer Schema",
+  "document_schema_version": "1.3.0",
+  "document_origin": "https://app.misterkraken.com/wcia/v1/transfers/0782566760/Gta8mgDKAgkz3zmTR",
+  "est_arrival_at": "2022-04-14T14:00:00.000Z",
+  "est_departed_at": "2022-04-14T14:00:00.000Z",
+  "external_id": "0782566760",
+  "from_license_name": "EVERGREEN HERBAL",
+  "from_license_number": "078256",
+  "manifest_type": "transporter",
+  "inventory_transfer_items": [
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782562669",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782562669",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 97
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 100
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "HAPA200 Happy Apple 100mg CBD / 100mg THC",
+      "line_price": 264,
+      "qty": 24,
+      "strain_name": "No Strain x Sunberry",
+      "unit_weight": 355,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782563474",
+      "inventory_type": "Solid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782563474",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 10.5
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "RMET100 (420 Mini - 100mg THC Dark Chocolate Espresso - Single Pouch)",
+      "line_price": 60,
+      "qty": 12,
+      "strain_name": "AK-47",
+      "unit_weight": 50,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782564076",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782564076",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 100
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "HAPA100 - Happy Apple - 100mg THC",
+      "line_price": 216,
+      "qty": 24,
+      "strain_name": "Distillate x Sunberry",
+      "unit_weight": 355,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782564112",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782564112",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 90.4
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "RLG100B 100mg Old School Grape",
+      "line_price": 120,
+      "qty": 24,
+      "strain_name": "No Strain x Sunberry x Sunberry",
+      "unit_weight": 200,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782564396",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782564396",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.5
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 99.9
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "1007 S&S Shot - Orange 100mg THC",
+      "line_price": 96,
+      "qty": 24,
+      "strain_name": "No Strain x Sunberry x Sunberry",
+      "unit_weight": 60,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782564630",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782564630",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 100
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "ATOA100 - Atomic Apple 100mg",
+      "line_price": 180,
+      "qty": 24,
+      "strain_name": "Distillate x Sunberry x Sunberry",
+      "unit_weight": 355,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782565168",
+      "inventory_type": "Solid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782565168",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 9.7
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 9.7
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "RMSC100 (420 Mini - Dark Chocolate Sea Salt CBD 1:1 - Single Pouch)",
+      "line_price": 79.80000000000001,
+      "qty": 12,
+      "strain_name": "Bio-5 (UWG)",
+      "unit_weight": 50,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "078256535",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "078256535",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.535
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "RLO100B (100mg Orange Cream Pie - Single)",
+      "line_price": 120,
+      "qty": 24,
+      "strain_name": "Sunberry",
+      "unit_weight": 200,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782565699",
+      "inventory_type": "Solid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782565699",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 10
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "RMST100 (420 Mini - 100mg THC Dark Chocolate Sea Salt - Single Pouch)",
+      "line_price": 60,
+      "qty": 12,
+      "strain_name": "Sun Berry",
+      "unit_weight": 50,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782565801",
+      "inventory_type": "Solid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782565801",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 9.7
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 10.6
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "LMEN200 (420 Mini Legacy - Energize 100mg THC/100mg CBD)",
+      "line_price": 79.80000000000001,
+      "qty": 12,
+      "strain_name": "Cheese x Dairy Queen x Gorilla Glue x Mother's Tongue",
+      "unit_weight": 90,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782565834",
+      "inventory_type": "Solid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782565834",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 9.5
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 9.3
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "LMSL200 420 Mini Legacy - Slumber 100mg THC/100mg CBD",
+      "line_price": 79.80000000000001,
+      "qty": 12,
+      "strain_name": "Cheese x Dairy Queen x Gorilla Glue x Mother's Tongue",
+      "unit_weight": 90,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782565925",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782565925",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 93
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "MAJPF100 (Major - Passionfruit 100mg THC)",
+      "line_price": 180,
+      "qty": 36,
+      "strain_name": "Sunberry",
+      "unit_weight": 190,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782565945",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782565945",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 100
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "MAJOM100 (Major - Orange Mango 100mg THC)",
+      "line_price": 180,
+      "qty": 36,
+      "strain_name": "Sunberry",
+      "unit_weight": 190,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782566441",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782566441",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 99
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "MAJBR100 Major - Blue Raspberry - 100mg THC",
+      "line_price": 180,
+      "qty": 36,
+      "strain_name": "Sunberry",
+      "unit_weight": 190,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "0782566579",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "0782566579",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 95
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "MAJPL100 (Major - Pink Lemonade 100mg THC)",
+      "line_price": 180,
+      "qty": 36,
+      "strain_name": "Sunberry",
+      "unit_weight": 190,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    }
+  ],
+  "route": "Head west on S Andover St toward 6th Ave S. Turn right onto 6th Ave S. Turn right onto S Spokane St. Take the ramp onto I-5 N. Keep right to stay on I-5 N. Take exit 182 for WA-525 N toward WA-99. Continue onto WA-525 N. Pass by Papa Murphy's | Take 'N' Bake Pizza (on the right in 3.3&nbsp;mi). Turn left. Turn left. Turn left. Destination will be on the right",
+  "to_license_name": "KUSHMAN'S",
+  "to_license_number": "431271",
+  "transfer_id": "0782566760",
+  "transferred_at": "2022-04-13T19:57:52.236Z",
+  "transporter_license": "M078256",
+  "transporter_name": "Gabe Stettler",
+  "updated_at": "2022-04-13T20:32:17.480Z"
+}
