@@ -1,0 +1,1103 @@
+{
+  "created_at": "2022-06-02T16:16:23.715Z",
+  "document_name": "WCIA Transfer Schema",
+  "document_schema_version": "2.0.0",
+  "document_origin": "https://app.misterkraken.com/wcia/v1/transfers/4272035512/LSKm2bSE274B6Ws8p",
+  "est_arrival_at": "2022-06-05T16:20:00.000Z",
+  "est_departed_at": "2022-06-03T16:20:00.000Z",
+  "external_id": "4272035512",
+  "from_license_name": "OLYMPIC REEF, LLC",
+  "from_license_number": "427203",
+  "manifest_type": "pick-up",
+  "inventory_transfer_items": [
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272033622",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272032593",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 12.82
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.06
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 15.43
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 13.18
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Juicy Joint Black Cherry CBD .8g",
+      "line_price": 116.5,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 0.8,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272033649",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033157",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.15
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 14.57
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 28.81
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Juicy Joint Mango .8g",
+      "line_price": 83,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 0.8,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272034239",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033433",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.03
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.12
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 14.25
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 26.8
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Supers Sour Seattleberry",
+      "line_price": 150,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272034358",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033574",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 13.1
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.1
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 14.02
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 19.63
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Juicy Joint Tropical CBD .8g",
+      "line_price": 116.5,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 0.8,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272034363",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033574",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 13.1
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.1
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 14.02
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 19.63
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Juicy Joint Seattle Berry CBD .8g",
+      "line_price": 116.5,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 0.8,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272034386",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033437",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 17.56
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 24.79
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Supers Georgia Peach",
+      "line_price": 150,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 1.0002205500778414,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272034393",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033437",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 17.56
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 24.79
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Supers Strawberry Limeaide",
+      "line_price": 150,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 1.0002205500778414,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272034731",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033198",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.1
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.13
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 16.27
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 26.9
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Juicy Joint Cotton Candy .8g",
+      "line_price": 83,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 0.8,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272034785",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033574",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 13.1
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.1
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 14.02
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 19.63
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Juicy Joint Blueberry Creamsicle CBD .8g",
+      "line_price": 116.5,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 0.8,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272034830",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033035",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.13
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 13.9
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 29.98
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Supers Island Breeze",
+      "line_price": 93,
+      "qty": 31,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272034835",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033035",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.13
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 13.9
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 29.98
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Supers Island Breeze",
+      "line_price": 57,
+      "qty": 19,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272034837",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033035",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.13
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 13.9
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 29.98
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Supers Blueberry Cheesecake",
+      "line_price": 150,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272034977",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033634",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.04
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.12
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 13.87
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 25.83
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Juicy Joint Watermelon .8g",
+      "line_price": 83,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 0.8,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272035013",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033634",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.04
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.12
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 13.87
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 25.83
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Juicy Joint Tangerine Dream .8g",
+      "line_price": 83,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 0.8,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272035053",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033638",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.11
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 13.65
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 25.96
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Juicy Joint Blue Raspberry .8g",
+      "line_price": 83,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 0.8,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272035111",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033638",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.11
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 13.65
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 25.96
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Juicy Joint Rainbow Sherbet .8g",
+      "line_price": 83,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 0.8,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272035115",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033638",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.11
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 13.65
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 25.96
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Juicy Joint Sour Apple .8g",
+      "line_price": 83,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 0.8,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272035293",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272034818",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.04
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.15
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 15.22
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 23.41
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Juicy Joint Pineapple .8g",
+      "line_price": 83,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 0.8,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4272035505",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "4272033565",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 14.99
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 29.88
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Supers Lime Rickey",
+      "line_price": 150,
+      "qty": 50,
+      "serving_weight": 0,
+      "strain_name": "Unassigned"
+      "unit_weight": 1.0000061736016792,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    }
+  ],
+  "to_license_name": "KUSHMAN'S",
+  "to_license_number": "431271",
+  "transfer_id": "4272035512",
+  "transferred_at": "2022-06-02T16:16:23.715Z",
+  "transporter_license": "M427203",
+  "updated_at": "2022-06-03T22:09:36.972Z"
+}
