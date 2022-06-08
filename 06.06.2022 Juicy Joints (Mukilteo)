@@ -62,7 +62,7 @@
       "line_price": 116.5,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -119,7 +119,7 @@
       "line_price": 83,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -176,7 +176,7 @@
       "line_price": 150,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 1,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -233,7 +233,7 @@
       "line_price": 116.5,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -290,7 +290,7 @@
       "line_price": 116.5,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -347,7 +347,7 @@
       "line_price": 150,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 1.0002205500778414,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -404,7 +404,7 @@
       "line_price": 150,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 1.0002205500778414,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -461,7 +461,7 @@
       "line_price": 83,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -518,7 +518,7 @@
       "line_price": 116.5,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -575,7 +575,7 @@
       "line_price": 93,
       "qty": 31,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 1,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -632,7 +632,7 @@
       "line_price": 57,
       "qty": 19,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 1,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -689,7 +689,7 @@
       "line_price": 150,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 1,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -746,7 +746,7 @@
       "line_price": 83,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -803,7 +803,7 @@
       "line_price": 83,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -860,7 +860,7 @@
       "line_price": 83,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -917,7 +917,7 @@
       "line_price": 83,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -974,7 +974,7 @@
       "line_price": 83,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -1031,7 +1031,7 @@
       "line_price": 83,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -1088,7 +1088,7 @@
       "line_price": 150,
       "qty": 50,
       "serving_weight": 0,
-      "strain_name": "Unassigned"
+      "strain_name": "Unassigned",
       "unit_weight": 1.0000061736016792,
       "unit_weight_uom": "g",
       "uom": "g"
