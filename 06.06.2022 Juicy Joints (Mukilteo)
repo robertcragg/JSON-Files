@@ -65,7 +65,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -122,7 +122,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -179,7 +179,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 1,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -236,7 +236,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -293,7 +293,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -350,7 +350,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 1.0002205500778414,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -407,7 +407,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 1.0002205500778414,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -464,7 +464,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -521,7 +521,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -578,7 +578,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 1,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -635,7 +635,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 1,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -692,7 +692,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 1,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -749,7 +749,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -806,7 +806,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -863,7 +863,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -920,7 +920,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -977,7 +977,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -1034,7 +1034,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 0.8,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -1091,7 +1091,7 @@
       "strain_name": "Unassigned",
       "unit_weight": 1.0000061736016792,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     }
   ],
   "to_license_name": "KUSHMAN'S",
