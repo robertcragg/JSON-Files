@@ -1,0 +1,1412 @@
+{
+  "created_at": "2022-06-09T18:52:55.529Z",
+  "document_name": "WCIA Transfer Schema",
+  "document_schema_version": "2.0.0",
+  "document_origin": "https://app.misterkraken.com/wcia/v1/transfers/4120727748/LiSoFTp7h49ADMvr8",
+  "est_arrival_at": "2022-06-24T18:54:00.000Z",
+  "est_departed_at": "2022-06-22T18:54:00.000Z",
+  "external_id": "4120727748",
+  "from_license_name": "EXPERIENCE ORGANICS",
+  "from_license_number": "412072",
+  "manifest_type": "pick-up",
+  "inventory_transfer_items": [
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727724",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Kief Infused Flower Pre-Roll (1 per tube)",
+      "line_price": 179,
+      "qty": 100,
+      "sample_source_id": "WAJ412072.IN11D6FR",
+      "serving_weight": 0,
+      "strain_name": "Cookies and Cream",
+      "unit_weight": 0.75,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727725",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Kief Infused Flower Pre-Roll (1 per tube)",
+      "line_price": 179,
+      "qty": 100,
+      "sample_source_id": "4120727725",
+      "serving_weight": 0,
+      "strain_name": "Sour Tangie",
+      "unit_weight": 0.75,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727726",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Kief Infused Flower Pre-Roll (1 per tube)",
+      "line_price": 179,
+      "qty": 100,
+      "sample_source_id": "WAJ412072.IN12FWQS",
+      "serving_weight": 0,
+      "strain_name": "Gandalf",
+      "unit_weight": 0.75,
+      "unit_weight_uom": "g",
+      "uom": "g"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727727",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "1 GRAM *BAG*",
+      "line_price": 99.9,
+      "qty": 30,
+      "sample_source_id": "4120727727",
+      "serving_weight": 0,
+      "strain_name": "Cookies and Cream",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727728",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "3.5 GRAM PREMIUM FLOWER JAR",
+      "line_price": 399.6,
+      "qty": 40,
+      "sample_source_id": "4120727728",
+      "serving_weight": 0,
+      "strain_name": "Cookies and Cream",
+      "unit_weight": 3.5,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727729",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "7 GRAM PREMIUM FLOWER JAR",
+      "line_price": 194.89999999999998,
+      "qty": 10,
+      "sample_source_id": "4120727729",
+      "serving_weight": 0,
+      "strain_name": "Cookies and Cream",
+      "unit_weight": 7,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727730",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "14 GRAM PREMIUM FLOWER JAR",
+      "line_price": 194.89999999999998,
+      "qty": 5,
+      "sample_source_id": "4120727730",
+      "serving_weight": 0,
+      "strain_name": "Cookies and Cream",
+      "unit_weight": 14,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727731",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "1 GRAM *BAG*",
+      "line_price": 99.9,
+      "qty": 30,
+      "sample_source_id": "GF42612700005280",
+      "serving_weight": 0,
+      "strain_name": "DOLATO",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727732",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "3.5 GRAM PREMIUM FLOWER JAR",
+      "line_price": 399.6,
+      "qty": 40,
+      "sample_source_id": "GF42612700005280",
+      "serving_weight": 0,
+      "strain_name": "DOLATO",
+      "unit_weight": 3.5,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727733",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "7 GRAM PREMIUM FLOWER JAR",
+      "line_price": 194.89999999999998,
+      "qty": 10,
+      "sample_source_id": "GF42612700005280",
+      "serving_weight": 0,
+      "strain_name": "DOLATO",
+      "unit_weight": 7,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727734",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "14 GRAM PREMIUM FLOWER JAR",
+      "line_price": 194.89999999999998,
+      "qty": 5,
+      "sample_source_id": "GF42612700005280",
+      "serving_weight": 0,
+      "strain_name": "DOLATO",
+      "unit_weight": 14,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727735",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "1 GRAM *BAG*",
+      "line_price": 16.65,
+      "qty": 5,
+      "sample_source_id": "4120727735",
+      "serving_weight": 0,
+      "strain_name": "Gandalf",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727736",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "1 GRAM *BAG*",
+      "line_price": 49.95,
+      "qty": 15,
+      "sample_source_id": "4120727736",
+      "serving_weight": 0,
+      "strain_name": "Gandalf",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727737",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "3.5 GRAM PREMIUM FLOWER JAR",
+      "line_price": 499.5,
+      "qty": 50,
+      "sample_source_id": "4120727737",
+      "serving_weight": 0,
+      "strain_name": "Gandalf",
+      "unit_weight": 3.5,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727738",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "7 GRAM PREMIUM FLOWER JAR",
+      "line_price": 292.34999999999997,
+      "qty": 15,
+      "sample_source_id": "4120727738",
+      "serving_weight": 0,
+      "strain_name": "Gandalf",
+      "unit_weight": 7,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727739",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "14 GRAM PREMIUM FLOWER JAR",
+      "line_price": 389.79999999999995,
+      "qty": 10,
+      "sample_source_id": "4120727739",
+      "serving_weight": 0,
+      "strain_name": "Gandalf",
+      "unit_weight": 14,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727740",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "1 GRAM *BAG*",
+      "line_price": 99.9,
+      "qty": 30,
+      "sample_source_id": "4120727740",
+      "serving_weight": 0,
+      "strain_name": "Sour Tangie",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727741",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "3.5 GRAM PREMIUM FLOWER JAR",
+      "line_price": 399.6,
+      "qty": 40,
+      "sample_source_id": "4120727741",
+      "serving_weight": 0,
+      "strain_name": "Sour Tangie",
+      "unit_weight": 3.5,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727742",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "7 GRAM PREMIUM FLOWER JAR",
+      "line_price": 194.89999999999998,
+      "qty": 10,
+      "sample_source_id": "4120727742",
+      "serving_weight": 0,
+      "strain_name": "Sour Tangie",
+      "unit_weight": 7,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727743",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "14 GRAM PREMIUM FLOWER JAR",
+      "line_price": 194.89999999999998,
+      "qty": 5,
+      "sample_source_id": "4120727743",
+      "serving_weight": 0,
+      "strain_name": "Sour Tangie",
+      "unit_weight": 14,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727744",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "1 GRAM *BAG*",
+      "line_price": 66.6,
+      "qty": 20,
+      "sample_source_id": "4120727744",
+      "serving_weight": 0,
+      "strain_name": "Sweet J",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727745",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "3.5 GRAM PREMIUM FLOWER JAR",
+      "line_price": 399.6,
+      "qty": 40,
+      "sample_source_id": "4120727745",
+      "serving_weight": 0,
+      "strain_name": "Sweet J",
+      "unit_weight": 3.5,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727746",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "7 GRAM PREMIUM FLOWER JAR",
+      "line_price": 194.89999999999998,
+      "qty": 10,
+      "sample_source_id": "4120727746",
+      "serving_weight": 0,
+      "strain_name": "Sweet J",
+      "unit_weight": 7,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727747",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "14 GRAM PREMIUM FLOWER JAR",
+      "line_price": 194.89999999999998,
+      "qty": 5,
+      "sample_source_id": "4120727747",
+      "serving_weight": 0,
+      "strain_name": "Sweet J",
+      "unit_weight": 14,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    }
+  ],
+  "to_license_name": "KUSHMAN",
+  "to_license_number": "421552",
+  "transfer_id": "4120727748",
+  "transferred_at": "2022-06-09T18:52:55.529Z",
+  "transporter_license": "J412072",
+  "updated_at": "2022-06-21T14:57:02.668Z"
+}
