@@ -17,7 +17,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR18COW",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -38,12 +38,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 1.06
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 39.27
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -74,7 +74,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -95,12 +95,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -131,7 +131,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -152,12 +152,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -188,7 +188,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -209,12 +209,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -245,7 +245,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -266,12 +266,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -302,7 +302,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -323,12 +323,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -359,7 +359,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -380,12 +380,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -416,135 +416,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "GF42612700005308",
-        "lab_result_status": "pass",
-        "potency": [
-          {
-            "type": "thc",
-            "unit": "pct",
-            "value": 0.5
-          },
-          {
-            "type": "thca",
-            "unit": "pct",
-            "value": 22.6
-          }
-        ]
-      },
-      "lab_result_passed": "pass",
-      "product_name": "1 GRAM *BAG*",
-      "line_price": 133.2,
-      "qty": 40,
-      "sample_source_id": "GF42612700005280",
-      "strain_name": "DOLATO",
-      "unit_weight": 1,
-      "unit_weight_uom": "g",
-      "uom": "ea"
-    },
-    {
-      "inventory_category": "EndProduct",
-      "inventory_id": "4120727707",
-      "inventory_type": "Usable Marijuana",
-      "is_for_extraction": 0,
-      "is_sample": 0,
-      "lab_result_data": {
-        "lab_result_id": "GF42612700005308",
-        "lab_result_status": "pass",
-        "potency": [
-          {
-            "type": "thc",
-            "unit": "pct",
-            "value": 0.5
-          },
-          {
-            "type": "thca",
-            "unit": "pct",
-            "value": 22.6
-          }
-        ]
-      },
-      "lab_result_passed": "pass",
-      "product_name": "3.5 GRAM PREMIUM FLOWER JAR",
-      "line_price": 499.5,
-      "qty": 50,
-      "sample_source_id": "GF42612700005280",
-      "strain_name": "DOLATO",
-      "unit_weight": 3.5,
-      "unit_weight_uom": "g",
-      "uom": "ea"
-    },
-    {
-      "inventory_category": "EndProduct",
-      "inventory_id": "4120727708",
-      "inventory_type": "Usable Marijuana",
-      "is_for_extraction": 0,
-      "is_sample": 0,
-      "lab_result_data": {
-        "lab_result_id": "GF42612700005308",
-        "lab_result_status": "pass",
-        "potency": [
-          {
-            "type": "thc",
-            "unit": "pct",
-            "value": 0.5
-          },
-          {
-            "type": "thca",
-            "unit": "pct",
-            "value": 22.6
-          }
-        ]
-      },
-      "lab_result_passed": "pass",
-      "product_name": "7 GRAM PREMIUM FLOWER JAR",
-      "line_price": 194.89999999999998,
-      "qty": 10,
-      "sample_source_id": "GF42612700005280",
-      "strain_name": "DOLATO",
-      "unit_weight": 7,
-      "unit_weight_uom": "g",
-      "uom": "ea"
-    },
-    {
-      "inventory_category": "EndProduct",
-      "inventory_id": "4120727709",
-      "inventory_type": "Usable Marijuana",
-      "is_for_extraction": 0,
-      "is_sample": 0,
-      "lab_result_data": {
-        "lab_result_id": "GF42612700005308",
-        "lab_result_status": "pass",
-        "potency": [
-          {
-            "type": "thc",
-            "unit": "pct",
-            "value": 0.5
-          },
-          {
-            "type": "thca",
-            "unit": "pct",
-            "value": 22.6
-          }
-        ]
-      },
-      "lab_result_passed": "pass",
-      "product_name": "14 GRAM PREMIUM FLOWER JAR",
-      "line_price": 194.89999999999998,
-      "qty": 5,
-      "sample_source_id": "GF42612700005280",
-      "strain_name": "DOLATO",
-      "unit_weight": 14,
-      "unit_weight_uom": "g",
-      "uom": "ea"
-    },
-    {
-      "inventory_category": "EndProduct",
-      "inventory_id": "4120727710",
-      "inventory_type": "Usable Marijuana",
-      "is_for_extraction": 0,
-      "is_sample": 0,
-      "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -565,12 +437,240 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "1 GRAM *BAG*",
+      "line_price": 133.2,
+      "qty": 40,
+      "sample_source_id": "GF42612700005280",
+      "strain_name": "DOLATO",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727707",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "3.5 GRAM PREMIUM FLOWER JAR",
+      "line_price": 499.5,
+      "qty": 50,
+      "sample_source_id": "GF42612700005280",
+      "strain_name": "DOLATO",
+      "unit_weight": 3.5,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727708",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "7 GRAM PREMIUM FLOWER JAR",
+      "line_price": 194.89999999999998,
+      "qty": 10,
+      "sample_source_id": "GF42612700005280",
+      "strain_name": "DOLATO",
+      "unit_weight": 7,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727709",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "14 GRAM PREMIUM FLOWER JAR",
+      "line_price": 194.89999999999998,
+      "qty": 5,
+      "sample_source_id": "GF42612700005280",
+      "strain_name": "DOLATO",
+      "unit_weight": 14,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "4120727710",
+      "inventory_type": "Usable Marijuana",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -601,7 +701,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -622,12 +722,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -658,7 +758,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -679,12 +779,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -715,7 +815,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -736,12 +836,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -772,7 +872,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -793,12 +893,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -829,7 +929,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -850,12 +950,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -886,7 +986,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -907,12 +1007,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -943,7 +1043,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -964,12 +1064,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -1000,7 +1100,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -1021,12 +1121,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -1057,7 +1157,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -1078,12 +1178,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -1114,7 +1214,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -1135,12 +1235,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
@@ -1171,7 +1271,7 @@
       "is_for_extraction": 0,
       "is_sample": 0,
       "lab_result_data": {
-        "lab_result_id": "WAL9.LR198EN",
+        "lab_result_id": "",
         "lab_result_status": "pass",
         "potency": [
           {
@@ -1192,12 +1292,12 @@
           {
             "type": "thc",
             "unit": "pct",
-            "value": 0.82
+            "value": 0
           },
           {
             "type": "thca",
             "unit": "pct",
-            "value": 40.15
+            "value": 0
           },
           {
             "type": "total-thc",
