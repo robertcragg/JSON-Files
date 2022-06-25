@@ -119,7 +119,7 @@
       "line_price": 268.5,
       "qty": 150,
       "sample_source_id": "WAJ412072.IN11D6FR",
-      "strain_name": "Cookies & Cream",
+      "strain_name": "Cookies and Cream",
       "unit_weight": 0.75,
       "unit_weight_uom": "g",
       "uom": "g"
@@ -233,7 +233,7 @@
       "line_price": 133.2,
       "qty": 40,
       "sample_source_id": "4120727702",
-      "strain_name": "Cookies & Cream",
+      "strain_name": "Cookies and Cream",
       "unit_weight": 1,
       "unit_weight_uom": "g",
       "uom": "ea"
@@ -290,7 +290,7 @@
       "line_price": 499.5,
       "qty": 50,
       "sample_source_id": "4120727703",
-      "strain_name": "Cookies & Cream",
+      "strain_name": "Cookies and Cream",
       "unit_weight": 3.5,
       "unit_weight_uom": "g",
       "uom": "ea"
@@ -347,7 +347,7 @@
       "line_price": 194.89999999999998,
       "qty": 10,
       "sample_source_id": "4120727704",
-      "strain_name": "Cookies & Cream",
+      "strain_name": "Cookies and Cream",
       "unit_weight": 7,
       "unit_weight_uom": "g",
       "uom": "ea"
@@ -404,7 +404,7 @@
       "line_price": 194.89999999999998,
       "qty": 5,
       "sample_source_id": "4120727705",
-      "strain_name": "Cookies & Cream",
+      "strain_name": "Cookies and Cream",
       "unit_weight": 14,
       "unit_weight_uom": "g",
       "uom": "ea"
