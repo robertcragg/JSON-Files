@@ -65,7 +65,7 @@
       "strain_name": "Gandalf",
       "unit_weight": 0.75,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -122,7 +122,7 @@
       "strain_name": "Cookies and Cream",
       "unit_weight": 0.75,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
@@ -179,7 +179,7 @@
       "strain_name": "Sour Tangie",
       "unit_weight": 0.75,
       "unit_weight_uom": "g",
-      "uom": "g"
+      "uom": "ea"
     },
     {
       "inventory_category": "EndProduct",
