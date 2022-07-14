@@ -49,7 +49,7 @@
       "qty": 24,
       "sample_source_id": "07825610232",
       "serving_weight": 10,
-      "strain_name": "No Strain x Sunberry",
+      "strain_name": "Unassigned",
       "unit_weight": 200,
       "unit_weight_uom": "g",
       "uom": "ea"
@@ -60,6 +60,34 @@
       "inventory_type": "Solid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "LMEN200 (420 Mini Legacy - Energize 100mg THC/100mg CBD)",
       "line_price": 199.92000000000002,
       "qty": 24,
@@ -76,6 +104,34 @@
       "inventory_type": "Solid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "LMEA200 (420 Mini Legacy - Ease 100mg THC/100mg CBD)",
       "line_price": 199.92000000000002,
       "qty": 24,
@@ -92,6 +148,34 @@
       "inventory_type": "Liquid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "HAPA200 Happy Apple 100mg CBD / 100mg THC",
       "line_price": 264,
       "qty": 24,
@@ -108,6 +192,34 @@
       "inventory_type": "Liquid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "1007 S&S Shot - Orange 100mg THC",
       "line_price": 288,
       "qty": 72,
@@ -124,6 +236,34 @@
       "inventory_type": "Solid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "RMHT100 (420 Mini - 100mg THC Milk Chocolate HempCrunch - Single Pouch)",
       "line_price": 159.60000000000002,
       "qty": 24,
@@ -140,6 +280,34 @@
       "inventory_type": "Liquid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "HAPA100 - Happy Apple - 100mg THC",
       "line_price": 432,
       "qty": 48,
@@ -156,6 +324,34 @@
       "inventory_type": "Liquid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "ATOA100 - Atomic Apple 100mg",
       "line_price": 180,
       "qty": 24,
@@ -172,6 +368,34 @@
       "inventory_type": "Liquid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "RLG100B 100mg Old School Grape",
       "line_price": 120,
       "qty": 24,
@@ -188,6 +412,34 @@
       "inventory_type": "Solid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "RMTT100 (420 Mini - 100mg THC Milk Chocolate Toffee - Single Pouch)",
       "line_price": 79.80000000000001,
       "qty": 12,
@@ -204,6 +456,34 @@
       "inventory_type": "Solid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "RMZT100 (420 Mini - 100mg THC Dark Chocolate Hazelnut - Single Pouch)",
       "line_price": 159.60000000000002,
       "qty": 24,
@@ -220,6 +500,34 @@
       "inventory_type": "Liquid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "1008 S&S Shot - Fruit Punch - 100mg THC",
       "line_price": 288,
       "qty": 72,
@@ -236,6 +544,34 @@
       "inventory_type": "Solid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "RMST100 (420 Mini - 100mg THC Dark Chocolate Sea Salt - Single Pouch)",
       "line_price": 79.80000000000001,
       "qty": 12,
@@ -252,6 +588,34 @@
       "inventory_type": "Liquid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "RLO100B (100mg Orange Cream Pie - Single)",
       "line_price": 120,
       "qty": 24,
@@ -268,6 +632,34 @@
       "inventory_type": "Solid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "RMMT100 420 Mini - Milk Chocolate - 100mg THC",
       "line_price": 159.60000000000002,
       "qty": 24,
@@ -284,6 +676,34 @@
       "inventory_type": "Liquid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "MAJBR100 Major - Blue Raspberry - 100mg THC",
       "line_price": 360,
       "qty": 72,
@@ -300,6 +720,34 @@
       "inventory_type": "Liquid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "1010 S&S Shot - Pink Lemonade - 100mg THC",
       "line_price": 288,
       "qty": 72,
@@ -316,6 +764,34 @@
       "inventory_type": "Liquid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "MAJPL100 (Major - Pink Lemonade 100mg THC)",
       "line_price": 180,
       "qty": 36,
@@ -332,6 +808,34 @@
       "inventory_type": "Liquid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
       "product_name": "MAJOM100 (Major - Orange Mango 100mg THC)",
       "line_price": 180,
       "qty": 36,
@@ -348,6 +852,34 @@
       "inventory_type": "Solid Edible",
       "is_for_extraction": 0,
       "is_sample": 0,
+      "lab_result_data (copy)": {
+        "coa": "https://certs.conflabs.com/full/WA-QAuUuzB7DvvI-WA-220706-019.pdf",
+        "lab_result_id": "WA-220706-019",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04734
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed (copy)": "pass",
       "lab_result_data": {
         "coa": "https://certs.conflabs.com/full/WA-q2XR1JxhCa6O-WA-220623-078.pdf",
         "lab_result_id": "WA-220623-078",
