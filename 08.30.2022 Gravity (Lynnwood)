@@ -1,0 +1,1335 @@
+{
+  "created_at": "2022-08-26T15:02:03.922Z",
+  "document_name": "WCIA Transfer Schema",
+  "document_schema_version": "2.0.0",
+  "document_origin": "https://app.misterkraken.com/wcia/v1/transfers/42742933666/t8Wx82Fp4LW7h22ci",
+  "est_arrival_at": "2022-08-29T14:00:00.000Z",
+  "est_departed_at": "2022-08-29T12:00:00.000Z",
+  "external_id": "42742933666",
+  "from_license_name": "T IN T ELEMENTS LLC",
+  "from_license_number": "427429",
+  "manifest_type": "transporter",
+  "inventory_transfer_items": [
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933341",
+      "inventory_type": "Concentrate for Inhalation",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "41639222468",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.19
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0.19
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 78
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 79
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 86
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Low Orbit Vape (Buddha Haze) 1g ",
+      "line_price": 287.5,
+      "qty": 50,
+      "sample_source_id": "41639222468",
+      "strain_name": "Buddha Haze",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933342",
+      "inventory_type": "Concentrate for Inhalation",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "41639222465",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.2
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0.2
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 79
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 79
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 87
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Low Orbit Vape (Gelato Punch) 1g",
+      "line_price": 287.5,
+      "qty": 50,
+      "sample_source_id": "41639222465",
+      "strain_name": "Gelato Punch",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933346",
+      "inventory_type": "Concentrate for Inhalation",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "41639222469",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.18
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0.18
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 80
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 80
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 88
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Low Orbit Vape (Moon Frost) 1g",
+      "line_price": 287.5,
+      "qty": 50,
+      "sample_source_id": "41639222469",
+      "strain_name": "Moon Frost",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933348",
+      "inventory_type": "Concentrate for Inhalation",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220818-020",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.22
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0.22
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 79.71
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 79.71
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 79.71
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Low Orbit Vape (Purple Dream) 1g",
+      "line_price": 287.5,
+      "qty": 50,
+      "sample_source_id": "41639223053",
+      "strain_name": "Purple Dream",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933349",
+      "inventory_type": "Concentrate for Inhalation",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220719-048",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.26
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 76.46
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 76.46
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 76.46
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Low Orbit Vape (Tangie) 1g",
+      "line_price": 281.75,
+      "qty": 49,
+      "sample_source_id": "41639219633",
+      "strain_name": "Tangie",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933352",
+      "inventory_type": "Concentrate for Inhalation",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220721-027",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.04
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 80.87
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 1.31
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 82.02
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 82.02
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stinger Live Resin Vape (21 Cookies) 1g",
+      "line_price": 550,
+      "qty": 50,
+      "sample_source_id": "41639220950",
+      "strain_name": "21 Cookies",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933353",
+      "inventory_type": "Concentrate for Inhalation",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220721-018",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 80.33
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 1.14
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 81.33
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 81.33
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stinger Live Resin Vape (Do-Si-Dos) 1g",
+      "line_price": 550,
+      "qty": 50,
+      "sample_source_id": "41639220956",
+      "strain_name": "Do-Si-Dos",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933354",
+      "inventory_type": "Concentrate for Inhalation",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 82
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 82
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 85
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stinger Live Resin Vape (Khaleesi's Fire) 1g",
+      "line_price": 550,
+      "qty": 50,
+      "sample_source_id": "41639213705",
+      "strain_name": "Khaleesi's Fire",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933355",
+      "inventory_type": "Concentrate for Inhalation",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220721-024",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 78.4
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 3.87
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 81.8
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 81.8
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stinger Live Resin Vape (Kush Cake) 1g",
+      "line_price": 550,
+      "qty": 50,
+      "sample_source_id": "41639220952",
+      "strain_name": "Kush Cake",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933356",
+      "inventory_type": "Concentrate for Inhalation",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220721-021",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 76.85
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 4.56
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 80.85
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 80.85
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stinger Live Resin Vape (Molten Melon) 1g",
+      "line_price": 550,
+      "qty": 50,
+      "sample_source_id": "41639220953",
+      "strain_name": "Molten Melon",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933357",
+      "inventory_type": "Concentrate for Inhalation",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220721-023",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 74.24
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 3.56
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 77.36
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 77.36
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stinger Live Resin Vape (Sour Diesel) 1g",
+      "line_price": 550,
+      "qty": 50,
+      "sample_source_id": "41639220959",
+      "strain_name": "Sour Diesel",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933365",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220728-023",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.12
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 12.29
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 32.43
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 40.73
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 40.73
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stingers (Obama Kush) 2pk .5g Pre-roll",
+      "line_price": 399.6,
+      "qty": 120,
+      "sample_source_id": "41639221481",
+      "strain_name": "Obama Kush",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933366",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220803-067",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.13
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 10.38
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 28.82
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 35.66
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 35.66
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stingers (Lemon Meringue) 2pk .5g Pre-rolls",
+      "line_price": 499.5,
+      "qty": 150,
+      "sample_source_id": "41639221838",
+      "serving_weight": 0,
+      "strain_name": "Lemon Meringue",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933370",
+      "inventory_type": "Concentrate for Inhalation",
+      "is_for_extraction": 0,
+      "is_sample": 1,
+      "lab_result_data": {
+        "lab_result_id": "WA-220721-024",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 78.4
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 3.87
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 81.8
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 81.8
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stinger Live Resin Vape (Budtender) Kush Cake",
+      "line_price": 0,
+      "qty": 10,
+      "sample_type": "educational",
+      "sample_source_id": "41639220952",
+      "strain_name": "Kush Cake",
+      "unit_weight": 0.25,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933640",
+      "inventory_type": "Concentrate for Inhalation",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220811-045",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.24
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 79.13
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Low Orbit Vape (Key Lime Diesel) 1g",
+      "line_price": 287.5,
+      "qty": 50,
+      "sample_source_id": "41639222667",
+      "strain_name": "Key Lime Diesel",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933641",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220811-045",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stinger Blunt (Sunrise Sherbet) 1g Pre-roll",
+      "line_price": 200,
+      "qty": 50,
+      "sample_source_id": "42742933641",
+      "strain_name": "Sunrise Sherbet",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933642",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220811-045",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stinger Blunt (WA Apple)",
+      "line_price": 200,
+      "qty": 50,
+      "sample_source_id": "42742933642",
+      "strain_name": "WA Apple",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933643",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220811-045",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stingers Blunt (Peach Rings) 1g Pre-roll",
+      "line_price": 200,
+      "qty": 50,
+      "sample_source_id": "42742933643",
+      "strain_name": "Peach Rings",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933644",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220811-045",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stingers Blunt (Pie in the Sky) 1g Pre-roll",
+      "line_price": 200,
+      "qty": 50,
+      "sample_source_id": "42742933644",
+      "strain_name": "Pie in the Sky",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933645",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220811-045",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stingers Blunt (Pyro Princess) 1g Pre-roll",
+      "line_price": 200,
+      "qty": 50,
+      "sample_source_id": "42742933645",
+      "strain_name": "Pyro Princess",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933646",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220811-045",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stingers Blunt (Wifi Alien) 1g Pre-roll",
+      "line_price": 200,
+      "qty": 50,
+      "sample_source_id": "42742933646",
+      "strain_name": "Wifi Alien",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933647",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 1,
+      "lab_result_data": {
+        "lab_result_id": "WA-220803-067",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.13
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 10.38
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 28.82
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stingers (Budtender) Lemon Meringue Pre-roll",
+      "line_price": 0,
+      "qty": 10,
+      "sample_type": "educational",
+      "sample_source_id": "41639221838",
+      "serving_weight": 0,
+      "strain_name": "Lemon Meringue",
+      "unit_weight": 0.5,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933648",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "41639222039",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 11
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 29
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stingers (Granddaddy Purple) 2pk .5g Pre-rolls",
+      "line_price": 499.5,
+      "qty": 150,
+      "sample_source_id": "41639222039",
+      "serving_weight": 0,
+      "strain_name": "Granddaddy Purple",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933649",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220728-023",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.12
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 12.29
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 32.43
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stingers (Obama Kush) 2pk .5g Pre-roll",
+      "line_price": 99.9,
+      "qty": 30,
+      "sample_source_id": "41639221481",
+      "strain_name": "Obama Kush",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933650",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "41639218882",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.66
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 39
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stingers (Strawberry Diesel) 2pk .5g Pre-rolls",
+      "line_price": 499.5,
+      "qty": 150,
+      "sample_source_id": "41639218882",
+      "strain_name": "Strawberry Diesel",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933651",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220727-063",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.15
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 9.38
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 34.22
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stingers (Strawnana Mintz) 2pk .5g Pre-rolls",
+      "line_price": 499.5,
+      "qty": 150,
+      "sample_source_id": "41639221342",
+      "strain_name": "Strawnana Mintz",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "42742933652",
+      "inventory_type": "Marijuana Mix Infused",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "lab_result_id": "WA-220717-017",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0.14
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 10.45
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 32.94
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "Stingers (Tangerine Dream) 2pk .5g Pre-rolls",
+      "line_price": 499.5,
+      "qty": 150,
+      "sample_source_id": "41639219807",
+      "serving_weight": 0,
+      "strain_name": "Tangerine Dream",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    }
+  ],
+  "to_license_name": "KUSHMAN",
+  "to_license_number": "421552",
+  "transfer_id": "42742933666",
+  "transferred_at": "2022-08-26T15:02:03.922Z",
+  "transporter_license": "M427429",
+  "transporter_name": "David Metoyer",
+  "updated_at": "2022-08-30T16:31:31.880Z"
+}
