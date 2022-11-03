@@ -1,0 +1,1149 @@
+{
+  "document_name": "WCIA Transfer Schema",
+  "document_schema_version": "2.0.0",
+  "document_origin": "https://go.growflow.com/wa/wcia/transfer?token=EAAAAI6QZcFc3IWd9EdHCYXJju3h%2B6NatEPXKevbCLBJ7aNjTNvLbUc7Latkenec6rLAcVXmaVGcGnxEf7Zqn4PjRDlzOMhs4kIabmZZ1fV7uRav",
+  "external_id": null,
+  "transfer_id": "GF41620300001084",
+  "from_license_number": "416203",
+  "from_license_name": "Hjg Llc",
+  "to_license_number": "421552",
+  "to_license_name": "Kushman",
+  "to_license_type": "Retailer + Medical",
+  "transporter_name": "Joe Girouard",
+  "transporter_license": "416203",
+  "manifest_type": "delivery",
+  "created_at": "2022-10-23T20:57:58.0423748Z",
+  "updated_at": "2022-11-02T22:27:22.7948493Z",
+  "transferred_at": "2022-11-02T22:24:41.1088563Z",
+  "est_departed_at": "2022-11-02T18:29:50.104Z",
+  "est_arrival_at": "2022-11-02T18:42:37.104Z",
+  "route": "Start: 8911 Evergreen Way, Everett, WA 98087\nEnd: 15804 Highway 99 Unit A, Lynnwood, WA 98087\n\nDistance: 5.1 mi\nDuration: 13 mins\n\nDirections:\n1) 59 ft - 1 min - Head southeast toward Holly Dr\n2) 384 ft - 1 min - Turn right onto Holly Dr\n3) 4.3 mi - 10 mins - Turn left onto Evergreen WayPass by O'Reilly Auto Parts (on the right in 1.6 mi)\n4) 0.7 mi - 2 mins - Continue onto Hwy 99 SDestination will be on the right\n",
+  "inventory_transfer_items": [
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493592",
+      "created_at": "2022-10-31T22:51:09.7628577Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 30,
+      "uom": "ea",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493592",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Packaged Flower - 3 Kings - 1g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 99.9,
+      "line_price": 99.9,
+      "strain_name": "3 Kings",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209086&res_id=161605",
+      "sample_source_id": "GF41620305493544",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493526",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://www.thc-testing.com/web/coa/attachment?id=209085&res_id=161605",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 1.9,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 20.9,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 20.2293,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 20.2293,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493593",
+      "created_at": "2022-10-31T22:52:12.8060803Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 40,
+      "uom": "ea",
+      "unit_weight": 3.5,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493593",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Packaged Flower - 3 Kings - 3.5g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 440,
+      "line_price": 440,
+      "strain_name": "3 Kings",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209086&res_id=161605",
+      "sample_source_id": "GF41620305493544",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493526",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://www.thc-testing.com/web/coa/attachment?id=209085&res_id=161605",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 1.9,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 20.9,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 20.2293,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 20.2293,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493593",
+      "created_at": "2022-10-31T22:52:12.8060803Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 20,
+      "uom": "ea",
+      "unit_weight": 7,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493595",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Packaged Flower - 3 Kings - 7g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 200,
+      "line_price": 200,
+      "strain_name": "3 Kings",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209086&res_id=161605",
+      "sample_source_id": "GF41620305493544",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493526",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://www.thc-testing.com/web/coa/attachment?id=209085&res_id=161605",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 1.9,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 20.9,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 20.2293,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 20.2293,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493594",
+      "created_at": "2022-10-31T22:52:19.4847686Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 30,
+      "uom": "ea",
+      "unit_weight": 5,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493594",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Pre-Rolls - 3 Kings - 5g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 261,
+      "line_price": 261,
+      "strain_name": "3 Kings",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209086&res_id=161605",
+      "sample_source_id": "GF41620305493544",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493526",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://www.thc-testing.com/web/coa/attachment?id=209085&res_id=161605",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 1.9,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 20.9,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 20.2293,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 20.2293,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493596",
+      "created_at": "2022-10-31T22:52:35.9002894Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 5,
+      "uom": "ea",
+      "unit_weight": 14,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493596",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Packaged Flower - 3 Kings - 14g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 190,
+      "line_price": 190,
+      "strain_name": "3 Kings",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209086&res_id=161605",
+      "sample_source_id": "GF41620305493544",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493526",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://www.thc-testing.com/web/coa/attachment?id=209085&res_id=161605",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 1.9,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 20.9,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 20.2293,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 20.2293,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493597",
+      "created_at": "2022-10-31T22:52:41.2650437Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 20,
+      "uom": "ea",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493597",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Packaged Flower - Fire Cookies - 1g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 66.6,
+      "line_price": 66.6,
+      "strain_name": "Fire Cookies",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209094&res_id=161606",
+      "sample_source_id": "GF41620305493543",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493527",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://growflowweb.blob.core.windows.net/pdf/1666931066.5014_Fire_Cookies_2.pdf",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 2,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 23.6,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 22.6972,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 22.6972,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493598",
+      "created_at": "2022-10-31T22:52:46.9376325Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 40,
+      "uom": "ea",
+      "unit_weight": 3.5,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493598",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Packaged Flower - Fire Cookies - 3.5g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 440,
+      "line_price": 440,
+      "strain_name": "Fire Cookies",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209094&res_id=161606",
+      "sample_source_id": "GF41620305493543",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493527",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://growflowweb.blob.core.windows.net/pdf/1666931066.5014_Fire_Cookies_2.pdf",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 2,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 23.6,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 22.6972,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 22.6972,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493599",
+      "created_at": "2022-10-31T22:53:04.8686195Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 30,
+      "uom": "ea",
+      "unit_weight": 5,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493599",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Pre-Rolls - Fire Cookies - 5g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 261,
+      "line_price": 261,
+      "strain_name": "Fire Cookies",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209094&res_id=161606",
+      "sample_source_id": "GF41620305493543",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493527",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://growflowweb.blob.core.windows.net/pdf/1666931066.5014_Fire_Cookies_2.pdf",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 2,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 23.6,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 22.6972,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 22.6972,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493600",
+      "created_at": "2022-10-31T22:53:12.8090985Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 10,
+      "uom": "ea",
+      "unit_weight": 7,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493600",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Packaged Flower - Fire Cookies - 7g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 200,
+      "line_price": 200,
+      "strain_name": "Fire Cookies",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209094&res_id=161606",
+      "sample_source_id": "GF41620305493543",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493527",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://growflowweb.blob.core.windows.net/pdf/1666931066.5014_Fire_Cookies_2.pdf",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 2,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 23.6,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 22.6972,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 22.6972,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493601",
+      "created_at": "2022-10-31T22:53:19.2101233Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 5,
+      "uom": "ea",
+      "unit_weight": 14,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493601",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Packaged Flower - Fire Cookies - 14g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 190,
+      "line_price": 190,
+      "strain_name": "Fire Cookies",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209094&res_id=161606",
+      "sample_source_id": "GF41620305493543",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493527",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://growflowweb.blob.core.windows.net/pdf/1666931066.5014_Fire_Cookies_2.pdf",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 2,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 23.6,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 22.6972,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 22.6972,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493603",
+      "created_at": "2022-10-31T22:53:32.6008775Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 20,
+      "uom": "ea",
+      "unit_weight": 5,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493603",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Pre-Rolls - Jokerz - 5g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 174,
+      "line_price": 174,
+      "strain_name": "Jokerz",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209062&res_id=161602",
+      "sample_source_id": "GF41620305493547",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493523",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://www.thc-testing.com/web/coa/attachment?id=209061&res_id=161602",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 0.6,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 22.7,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 20.5079,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 20.5079,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493609",
+      "created_at": "2022-10-31T22:54:19.2332667Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 20,
+      "uom": "ea",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493609",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Packaged Flower - Sunset Sherbet - 1g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 66.6,
+      "line_price": 66.6,
+      "strain_name": "Sunset Sherbet",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209070&res_id=161603",
+      "sample_source_id": "GF41620305493546",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493524",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://growflowweb.blob.core.windows.net/pdf/1666931464.45251_Sunset_Sherbet.pdf",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 0.8,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 28.1,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 25.4437,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 25.4437,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493610",
+      "created_at": "2022-10-31T22:54:24.9349226Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 40,
+      "uom": "ea",
+      "unit_weight": 3.5,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493610",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Packaged Flower - Sunset Sherbet - 3.5g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 440,
+      "line_price": 440,
+      "strain_name": "Sunset Sherbet",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209070&res_id=161603",
+      "sample_source_id": "GF41620305493546",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493524",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://growflowweb.blob.core.windows.net/pdf/1666931464.45251_Sunset_Sherbet.pdf",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 0.8,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 28.1,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 25.4437,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 25.4437,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493611",
+      "created_at": "2022-10-31T22:54:29.1632157Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 30,
+      "uom": "ea",
+      "unit_weight": 5,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493611",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Pre-Rolls - Sunset Sherbet - 5g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 261,
+      "line_price": 261,
+      "strain_name": "Sunset Sherbet",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209070&res_id=161603",
+      "sample_source_id": "GF41620305493546",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493524",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://growflowweb.blob.core.windows.net/pdf/1666931464.45251_Sunset_Sherbet.pdf",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 0.8,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 28.1,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 25.4437,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 25.4437,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493612",
+      "created_at": "2022-10-31T22:54:34.7564939Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 10,
+      "uom": "ea",
+      "unit_weight": 7,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493612",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Packaged Flower - Sunset Sherbet - 7g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 200,
+      "line_price": 200,
+      "strain_name": "Sunset Sherbet",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209070&res_id=161603",
+      "sample_source_id": "GF41620305493546",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493524",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://growflowweb.blob.core.windows.net/pdf/1666931464.45251_Sunset_Sherbet.pdf",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 0.8,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 28.1,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 25.4437,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 25.4437,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493613",
+      "created_at": "2022-10-31T22:54:42.0935964Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 5,
+      "uom": "ea",
+      "unit_weight": 14,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493613",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Packaged Flower - Sunset Sherbet - 14g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "EndProduct",
+      "inventory_type": "Usable Marijuana",
+      "product_price": 190,
+      "line_price": 190,
+      "strain_name": "Sunset Sherbet",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://www.thc-testing.com/web/json/attachment?id=209070&res_id=161603",
+      "sample_source_id": "GF41620305493546",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41620305493524",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://growflowweb.blob.core.windows.net/pdf/1666931464.45251_Sunset_Sherbet.pdf",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 0.8,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 28.1,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 25.4437,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 25.4437,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620305493569",
+      "created_at": "2022-10-31T22:55:07.360188Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 30,
+      "uom": "ea",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620305493569",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "3 Kings Live Resin - 3 Kings - 1g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "IntermediateProduct",
+      "inventory_type": "Concentrate for Inhalation",
+      "product_price": 300,
+      "line_price": 300,
+      "strain_name": "3 Kings",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-KfnI9Jsl5gi9-WA-220927-016.json",
+      "sample_source_id": "GF41620305493569",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41244605494185",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://certs.conflabs.com/full/WA-KfnI9Jsl5gi9-WA-220927-016.pdf",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 5.05,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 84.21,
+            "unit": "pct"
+          },
+          {
+            "type": "cbda",
+            "value": 0.08854,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 78.90217,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0.07765,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 78.97982,
+            "unit": "pct"
+          }
+        ]
+      }
+    },
+    {
+      "integrator_data": null,
+      "inventory_id": "GF41620300001977",
+      "created_at": "2022-10-31T22:55:13.6451538Z",
+      "updated_at": "2022-11-02T22:24:41.2133568Z",
+      "qty": 30,
+      "uom": "ea",
+      "unit_weight": 1,
+      "unit_weight_uom": "g",
+      "product_sku": "GF41620300001977",
+      "product_sample_type": null,
+      "is_sample": "0",
+      "sample_type": null,
+      "product_name": "Fire Cookies BHO - Fire Cookies - 1g",
+      "is_medical": "0",
+      "is_for_extraction": "0",
+      "inventory_category": "IntermediateProduct",
+      "inventory_type": "Concentrate for Inhalation",
+      "product_price": 300,
+      "line_price": 300,
+      "strain_name": "Fire Cookies",
+      "lab_result_passed": "pass",
+      "lab_result_link": "https://certs.conflabs.com/wcia/v1/WA-tpexa0WICVCT-WA-220408-064.json",
+      "sample_source_id": "GF41620300001977",
+      "serving_weight": 0,
+      "lab_result_data": {
+        "lab_result_id": "GF41244600011924",
+        "lab_result_status": "pass",
+        "lab_result_detail": null,
+        "coa": "https://certs.conflabs.com/full/WA-tpexa0WICVCT-WA-220408-064.pdf",
+        "release_date": null,
+        "amended_date": null,
+        "expire_date": null,
+        "potency": [
+          {
+            "type": "thc",
+            "value": 8.735,
+            "unit": "pct"
+          },
+          {
+            "type": "thca",
+            "value": 75.23,
+            "unit": "pct"
+          },
+          {
+            "type": "cbda",
+            "value": 0.1312,
+            "unit": "pct"
+          },
+          {
+            "type": "total-thc",
+            "value": 74.71171,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cbd",
+            "value": 0.11506,
+            "unit": "pct"
+          },
+          {
+            "type": "total-cannabinoids",
+            "value": 74.82677,
+            "unit": "pct"
+          }
+        ]
+      }
+    }
+  ]
+}
