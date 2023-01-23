@@ -1,0 +1,1849 @@
+{
+  "created_at": "2023-01-18T13:26:31.531Z",
+  "document_name": "WCIA Transfer Schema",
+  "document_schema_version": "2.0.0",
+  "document_origin": "https://app.misterkraken.com/wcia/v1/transfers/07825616839/D42Kw2QQYmwP5e5h4",
+  "est_arrival_at": "2023-01-19T15:31:00.000Z",
+  "est_departed_at": "2023-01-19T15:31:00.000Z",
+  "external_id": "07825616839",
+  "from_license_name": "EVERGREEN HERBAL",
+  "from_license_number": "078256",
+  "manifest_type": "transporter",
+  "inventory_transfer_items": [
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825612052",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825612052-b2Z7fzsS7itM32YTj.pdf",
+        "lab_result_id": "WA-220824-043",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.00078
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0.47
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 0.00438
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 0.00309
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0.00226
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0.00056
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.1724
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 0.00151
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 100
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 110
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "WA-220824-043",
+            "lab_result_status": "pass",
+            "lab_result_link": "https://certs.conflabs.com/wcia/v2/WA-lEyii11nalQS-WA-220824-043.json"
+          }
+        ]
+      },
+      "lab_result_link": "https://certs.conflabs.com/wcia/v2/WA-lEyii11nalQS-WA-220824-043.json",
+      "lab_result_passed": "pass",
+      "product_name": "1007 S and S Shot - Orange 100mg THC",
+      "line_price": 96,
+      "qty": 24,
+      "sample_source_id": "07825612052",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 60,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825612278",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825612278-SBq7gGaf6fTKPzfsy.pdf",
+        "lab_result_id": "WA-220906-000",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.0018
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0.9
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 0.00412
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 0.00329
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0.00387
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0.00037
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.1986
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 0.00215
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 99
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 110
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "WA-220906-000",
+            "lab_result_status": "pass",
+            "lab_result_link": "https://certs.conflabs.com/wcia/v2/WA-rFYsURyDTWQD-WA-220906-000.json"
+          }
+        ]
+      },
+      "lab_result_link": "https://certs.conflabs.com/wcia/v2/WA-rFYsURyDTWQD-WA-220906-000.json",
+      "lab_result_passed": "pass",
+      "product_name": "1011 S and S Shot - Grapefruit - 100mg THC",
+      "line_price": 96,
+      "qty": 24,
+      "sample_source_id": "07825612278",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 60,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825613063",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825613063-ccD5z49HPHHucLXcz.pdf",
+        "lab_result_id": "WA-220925-007",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 0.00071
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 0.00076
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0.00096
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.04058
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 0.00045
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 90.2
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 96.8
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "WA-220925-007",
+            "lab_result_status": "pass",
+            "lab_result_link": "https://certs.conflabs.com/wcia/v2/WA-Kp9ZiAxovTnv-WA-220925-007.json"
+          }
+        ]
+      },
+      "lab_result_link": "https://certs.conflabs.com/wcia/v2/WA-Kp9ZiAxovTnv-WA-220925-007.json",
+      "lab_result_passed": "pass",
+      "product_name": "RLO100B (100mg Orange Cream Pie - Single)",
+      "line_price": 120,
+      "qty": 24,
+      "sample_source_id": "07825613063",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 200,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825613363",
+      "inventory_type": "Solid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825613363-LztS2f9E2MEJYyLMn.pdf",
+        "lab_result_id": "WA-221006-037",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 0.01
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.21
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 9.4
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 9.6
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "WA-221006-037",
+            "lab_result_status": "pass",
+            "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-0Ey78jH3W3oh-WA-221006-037.json"
+          }
+        ]
+      },
+      "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-0Ey78jH3W3oh-WA-221006-037.json",
+      "lab_result_passed": "pass",
+      "product_name": "RMHT100 (420 Mini - 100mg THC Milk Chocolate HempCrunch - Single Pouch)",
+      "line_price": 79.8,
+      "qty": 12,
+      "sample_source_id": "07825613363",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 50,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825613753",
+      "inventory_type": "Solid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825613753-YW6eZ4LW9fPprx4tG.pdf",
+        "lab_result_id": "WA-221013-027",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 0.01
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.21
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 9.3
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 9.7
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "WA-221013-027",
+            "lab_result_status": "pass",
+            "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-4qh4N9A6fO3k-WA-221013-027.json"
+          }
+        ]
+      },
+      "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-4qh4N9A6fO3k-WA-221013-027.json",
+      "lab_result_passed": "pass",
+      "product_name": "RMZT100 (420 Mini - 100mg THC Dark Chocolate Hazelnut - Single Pouch)",
+      "line_price": 79.8,
+      "qty": 12,
+      "sample_source_id": "07825613753",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 50,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825613757",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825613757-HRQ7jdJqmLQyiRAa9.pdf",
+        "lab_result_id": "1129437",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 2.3
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 110
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 110
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 0.67
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 97
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 1.2
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 97
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 207
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "1129437",
+            "lab_result_status": "pass"
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "HAPA200C Happy Apple 100mg CBD / 100mg THC",
+      "line_price": 264,
+      "qty": 24,
+      "sample_source_id": "07825613757",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 355,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825614172",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825614172-pyEFzmKkdC5DcnGd2.pdf",
+        "lab_result_id": "1130199",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 1.9
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 2
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 2.2
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 98
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 1.1
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 98
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 110
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "1130199",
+            "lab_result_status": "pass"
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "HAPA100 - Happy Apple - 100mg THC",
+      "line_price": 216,
+      "qty": 24,
+      "sample_source_id": "07825614172",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 355,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825614297",
+      "inventory_type": "Solid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825614297-4QyETuw2m9hkJYmq3.pdf",
+        "lab_result_id": "WA-221105-013",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.11
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 11
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.1
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 9.9
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 21
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "WA-221105-013",
+            "lab_result_status": "pass",
+            "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-qkCPUqc54uQl-WA-221105-013.json"
+          }
+        ]
+      },
+      "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-qkCPUqc54uQl-WA-221105-013.json",
+      "lab_result_passed": "pass",
+      "product_name": "LMSL200 420 Mini Legacy - Slumber 100mg THC/100mg CBD",
+      "line_price": 99.96,
+      "qty": 12,
+      "sample_source_id": "07825614297",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 90,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825615077",
+      "inventory_type": "Solid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825615077-jq24tNA52Q5jGZTYa.pdf",
+        "lab_result_id": "WA-221130-063",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 0.01
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.2
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 0.2
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 0.2
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "WA-221130-063",
+            "lab_result_status": "pass",
+            "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-upcz63oDbs5A-WA-221130-063.json"
+          }
+        ]
+      },
+      "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-upcz63oDbs5A-WA-221130-063.json",
+      "lab_result_passed": "pass",
+      "product_name": "RMTT100 (420 Mini - 100mg THC Milk Chocolate Toffee - Single Pouch)",
+      "line_price": 79.8,
+      "qty": 12,
+      "sample_source_id": "07825615077",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 50,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825615116",
+      "inventory_type": "Solid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825615116-P7nZKSPG8cGxZNbeQ.pdf",
+        "lab_result_id": "WA-221130-062",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 0.01
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.22
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 9.8
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 10
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "WA-221130-062",
+            "lab_result_status": "pass",
+            "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-53wfVy6N17eu-WA-221130-062.json"
+          }
+        ]
+      },
+      "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-53wfVy6N17eu-WA-221130-062.json",
+      "lab_result_passed": "pass",
+      "product_name": "RMMT100 420 Mini - Milk Chocolate - 100mg THC",
+      "line_price": 79.8,
+      "qty": 12,
+      "sample_source_id": "07825615116",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 50,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825615294",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825615294-xSzC6562YkvfMR3iS.pdf",
+        "lab_result_id": "1132057",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.91
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0.91
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 1.6
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 2.8
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 97
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 0.68
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 97
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 97.91
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825615294-xSzC6562YkvfMR3iS.pdf"
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "MAJBR100 Major - Blue Raspberry - 100mg THC",
+      "line_price": 360,
+      "qty": 72,
+      "sample_source_id": "07825615294",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 190,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825615421",
+      "inventory_type": "Solid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-cBuoCgJRDj8F-WA-221208-039.pdf",
+        "lab_result_id": "WA-221208-039",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.01
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0.43
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 0.01
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.22
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 9.8
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 11
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "https://certs.conflabs.com/full/WA-cBuoCgJRDj8F-WA-221208-039.pdf",
+            "lab_result_id": "WA-221208-039",
+            "lab_result_status": "pass",
+            "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-cBuoCgJRDj8F-WA-221208-039.json"
+          }
+        ]
+      },
+      "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-cBuoCgJRDj8F-WA-221208-039.json",
+      "lab_result_passed": "pass",
+      "product_name": "RMET100 (420 Mini - 100mg THC Dark Chocolate Espresso - Single Pouch)",
+      "line_price": 79.8,
+      "qty": 12,
+      "sample_source_id": "07825615421",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 50,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825615427",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://certs.conflabs.com/full/WA-mjwlEIZawM2s-WA-221207-027.pdf",
+        "lab_result_id": "WA-221207-027",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 1.2
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 0.01
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 0.14
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 100
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 110
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "https://certs.conflabs.com/full/WA-mjwlEIZawM2s-WA-221207-027.pdf",
+            "lab_result_id": "WA-221207-027",
+            "lab_result_status": "pass",
+            "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-mjwlEIZawM2s-WA-221207-027.json"
+          }
+        ]
+      },
+      "lab_result_link": "https://certs.conflabs.com/wcia/v2_1/WA-mjwlEIZawM2s-WA-221207-027.json",
+      "lab_result_passed": "pass",
+      "product_name": "1010 S and S Shot - Pink Lemonade - 100mg THC",
+      "line_price": 96,
+      "qty": 24,
+      "sample_source_id": "07825615427",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 60,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825615764",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825615764-7JTcGr2fD48ysmFpd.pdf",
+        "lab_result_id": "1132967",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 1.6
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.79
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0.79
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 1.6
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 2.7
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 100
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 0.73
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 100
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 110
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825615764-7JTcGr2fD48ysmFpd.pdf"
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "MAJPL100 (Major - Pink Lemonade 100mg THC)",
+      "line_price": 360,
+      "qty": 72,
+      "sample_source_id": "07825615764",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 190,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825615870",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825615870-or3oir6qJK3PEESTw.pdf",
+        "lab_result_id": "1133039",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 1
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 1
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 1.7
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 3.3
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 93
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 1.3
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 93
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 100
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825615870-or3oir6qJK3PEESTw.pdf"
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "MAJGR100 (Major - Grape 100mg THC)",
+      "line_price": 180,
+      "qty": 36,
+      "sample_source_id": "07825615870",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 190,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    },
+    {
+      "inventory_category": "EndProduct",
+      "inventory_id": "07825616181",
+      "inventory_type": "Liquid Edible",
+      "is_for_extraction": 0,
+      "is_sample": 0,
+      "lab_result_data": {
+        "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825616181-NL7w6BiM4fevHnpGQ.pdf",
+        "lab_result_id": "1133561",
+        "lab_result_status": "pass",
+        "potency": [
+          {
+            "type": "cbc",
+            "unit": "pct",
+            "value": 3.3
+          },
+          {
+            "type": "cbd",
+            "unit": "pct",
+            "value": 0.81
+          },
+          {
+            "type": "cbda",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbdv",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-cbd",
+            "unit": "pct",
+            "value": 0.81
+          },
+          {
+            "type": "cbg",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbga",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "cbn",
+            "unit": "pct",
+            "value": 2.7
+          },
+          {
+            "type": "cbt",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "delta8THC",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thc",
+            "unit": "pct",
+            "value": 100
+          },
+          {
+            "type": "thca",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "thcv",
+            "unit": "pct",
+            "value": 0.95
+          },
+          {
+            "type": "thcva",
+            "unit": "pct",
+            "value": 0
+          },
+          {
+            "type": "total-thc",
+            "unit": "pct",
+            "value": 100
+          },
+          {
+            "type": "total-cannabinoids",
+            "unit": "pct",
+            "value": 100.81
+          }
+        ],
+        "lab_result_list": [
+          {
+            "coa": "https://misterkraken.s3.amazonaws.com/labTestAttachments/M078256/07825616181-NL7w6BiM4fevHnpGQ.pdf"
+          }
+        ]
+      },
+      "lab_result_passed": "pass",
+      "product_name": "MAJPF100 (Major - Passionfruit 100mg THC)",
+      "line_price": 180,
+      "qty": 36,
+      "sample_source_id": "07825616181",
+      "serving_weight": 10,
+      "strain_name": "Sunberry",
+      "unit_weight": 190,
+      "unit_weight_uom": "g",
+      "uom": "ea"
+    }
+  ],
+  "to_license_name": "KUSHMAN'S",
+  "to_license_number": "431271",
+  "transfer_id": "07825616839",
+  "transferred_at": "2023-01-18T13:26:31.531Z",
+  "transporter_license": "M078256",
+  "transporter_name": "JON'T Edgecombe",
+  "updated_at": "2023-01-20T18:27:39.974Z"
+}
